@@ -11,8 +11,6 @@ def turn_right():
     tim.right(10)
 def turn_left():
     tim.left(10)
-def clockwise():
-    tim.circle(50)
 def clear():
     tim.clear()
     tim.reset()
